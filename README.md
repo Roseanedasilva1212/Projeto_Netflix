@@ -1,4 +1,5 @@
-![Captura de tela 2025-03-04 172529](https://github.com/user-attachments/assets/6f10dd06-8cab-4ab2-812f-370f53d50e4f)
+
+
 # Netflix Login Page 
 
 Este repositório contém um projeto de clone da tela de login da Netflix, criado utilizando apenas HTML e CSS.
@@ -64,3 +65,4 @@ Este projeto é licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE)
 
 - Inspirado pela interface de login da Netflix.
 
+![Captura de tela 2025-03-04 172529](https://github.com/user-attachments/assets/6f10dd06-8cab-4ab2-812f-370f53d50e4f)
